@@ -1,0 +1,7 @@
+https://github.com/processing/p5.js/wiki/Local-server
+
+følge og skrive cd mellomrom mappenavn
+
+http-server for å åpne server etter install
+
+og kopiere nederste ip med musa ikke ctrl c 
